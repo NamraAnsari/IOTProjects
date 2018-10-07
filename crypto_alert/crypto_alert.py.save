@@ -1,8 +1,0 @@
-import json
-import time
-import requests
-from boltiot import Bolt
-API_KEY = "e92494e3-f250-4a4e-946a-c9a7d9502fd8"
-DEVICE_ID = "BOLT10763431"
-mybolt = Bolt(API_KEY, DEVICE_ID)
-
